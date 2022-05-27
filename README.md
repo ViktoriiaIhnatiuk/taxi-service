@@ -6,7 +6,7 @@ Project structure
 -----------
 Application is designed according to SOLID principles, using DAO, DI and N-Tier Architecture patterns with next layers:
 1. controllers layer (the presentation tier);
-2. services layer (logic tier);
+2. services layer (the logic tier);
 3. DAO layer (the data tier);
 
 Features
