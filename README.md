@@ -42,7 +42,6 @@ Usage
 5. Run script from the resources/init_db.sql file in the Workbench;
 6. Using a Workbench add at least one driver to your DB;
 7. Configure src/main/java/taxi/util/ConnectionUtil.java file to make a connection to you DB*;
-   your timezone ;
 8. Run application.
 
 *  HINT: If you can't connect to your DB because of this error:
